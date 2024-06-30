@@ -5,7 +5,7 @@ These frameworks help candidates convey information in a organized and logical m
 **Could we create a model that helps us evaluate if an interview answer is compliant with this structure?**
 
 # The project
-This repository contain a notebook that creates a simple neural network model to classify sentences in one of the SAR categories.
+This repository contain a notebook that creates a simple neural network model to classify sentences in one of the SAR categories. A detailed explanation from the project can be seen in the [presentation file](presentation.pdf).
 
 # Project keywords
 - Jupyter Notebook
